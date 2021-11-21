@@ -1,0 +1,10 @@
+release/lesson.o
+release/main.o
+release/mydialog.o
+release/mytable.o
+release/search.o
+release/student.o
+release/system.o
+release/moc_mydialog.o
+release/moc_mytable.o
+release/moc_system.o

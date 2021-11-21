@@ -1,0 +1,10 @@
+debug/lesson.o
+debug/main.o
+debug/mydialog.o
+debug/mytable.o
+debug/search.o
+debug/student.o
+debug/system.o
+debug/moc_mydialog.o
+debug/moc_mytable.o
+debug/moc_system.o
