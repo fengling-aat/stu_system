@@ -1,0 +1,1 @@
+# qt student info system
